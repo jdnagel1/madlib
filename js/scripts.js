@@ -20,3 +20,22 @@ $(document).ready(function() {
     event.preventDefault();
   });
 });
+
+// $(document).ready(function() {
+//   $("#formOne").submit(function(event) {
+//
+//
+//     var values = ["adj", "adj2", "adj3", "adj4"];
+//
+//     values.forEach(function(value) {
+//       var userInput = $("input#" + value).val();
+//       $("." + value).text(userInput);
+//     });
+//
+//       $("#story").show();
+//
+//       event.preventDefault();
+//     });
+//   });
+
+// practice at home later and push^^^
